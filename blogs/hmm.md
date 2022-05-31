@@ -10,5 +10,4 @@
 I am da best
 Hello
 bruuh
-a
-s
+tick
