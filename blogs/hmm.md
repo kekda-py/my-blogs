@@ -1,7 +1,8 @@
-- title: i will kill u
-- dsc: best blog
-- meta:
-  - title: cool
+data:
+  - title: i will kill u
+  - dsc: best blog
+  - meta:
+    - title: cool
 ---
 
 
