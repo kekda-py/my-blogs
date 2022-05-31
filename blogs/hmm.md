@@ -5,7 +5,7 @@ data:
   - meta:
     - title: cooll
     - dsc: best hmm
-    - image: cool image right?
+    - image: cool image
 ---
 
 # How I made a completely Anonymous chat app with go and next.js
