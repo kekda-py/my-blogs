@@ -328,3 +328,4 @@ to run the app in development mode
 <h2 align="center">
 <a href="https://buga-chat.vercel.app/">Buga-Chat</a>
 </h2>
+
