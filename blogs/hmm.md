@@ -3,7 +3,7 @@ data:
   - dsc: best blog
   - meta:
     - title: cooll
-    - dsc: best blogh test
+    - dsc: best hmm
 ---
 
 
