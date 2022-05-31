@@ -4,6 +4,7 @@ data:
   - meta:
     - title: cooll
     - dsc: best hmm
+    - image: cool image
 ---
 
 
