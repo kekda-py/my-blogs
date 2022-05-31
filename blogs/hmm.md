@@ -7,7 +7,3 @@ data:
 ---
 
 
-I am da best
-Hello
-bruuh
-tick
