@@ -1,7 +1,7 @@
 data:
   - title: How I made a completely Anonymous chat app with go and next.js
   - dsc: So I was learning go the other day. And was amazed by its channels. So decided to make something in it...
-  - date: 2020-06-01
+  - date: 2020-06-10
   - meta:
     - title: How I made a completely Anonymous chat app with go and next.js
     - dsc: So I was learning go the other day. And was amazed by its channels. So decided to make something in it...
